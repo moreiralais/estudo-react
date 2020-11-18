@@ -1,3 +1,7 @@
+# Versões
+Node 12.18.0
+Npm 6.14.4
+Yarn 1.22.5
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
